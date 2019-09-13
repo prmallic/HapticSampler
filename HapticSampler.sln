@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HapticSampler", "HapticSampler\HapticSampler.csproj", "{AEFB61A9-75A0-405D-A1B5-AC156A39B32E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEFB61A9-75A0-405D-A1B5-AC156A39B32E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AEFB61A9-75A0-405D-A1B5-AC156A39B32E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AEFB61A9-75A0-405D-A1B5-AC156A39B32E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AEFB61A9-75A0-405D-A1B5-AC156A39B32E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{AEFB61A9-75A0-405D-A1B5-AC156A39B32E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AEFB61A9-75A0-405D-A1B5-AC156A39B32E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{AEFB61A9-75A0-405D-A1B5-AC156A39B32E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AEFB61A9-75A0-405D-A1B5-AC156A39B32E}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
